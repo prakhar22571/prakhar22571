@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **prakhar.convo@gmail.com**
 
-- ⚡ Fun fact **I need to tick boxes to confirm i am not a robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
