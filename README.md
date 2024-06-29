@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://prakhar22571.github.io/portfolio/](https://prakhar22571.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://prakhar-rai.netlify.app/](https://prakhar-rai.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
