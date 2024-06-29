@@ -1,4 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <h1 align="center">Hi 👋, I'm Prakhar Rai</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/mr22571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr22571" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakhar-rai-7a6102227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-rai-7a6102227" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prakharrai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakharrai" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prakhar22571" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakharrai" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prakhar22571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prakhar22571" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prakhar22571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar22571" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prakharraicic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakharraicic" height="30" width="40" /></a>
