@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **prakhar.convo@gmail.com**
+- 📫 How to reach me **prakhar.rai.dev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
