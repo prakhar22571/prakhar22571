@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://prakhar-rai.netlify.app/](https://prakhar-rai.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://prakhar-portfolio-site.vercel.app/](https://prakhar-portfolio-site.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
