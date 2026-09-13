@@ -1,6 +1,5 @@
 ### Hi there I am [Prakhar](https://www.linkedin.com/in/prakhar22571/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h4 align="left">Backend Engineer | AI Engineer | DevOps Engineer </h4>
-<br/>
 
 ---
 
